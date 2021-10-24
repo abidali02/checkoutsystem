@@ -47,7 +47,3 @@ There are 5 different test cases written in this file:-
 1. If the wrong SKU is passed in input, code will show the error "XXX  is not a valid SKU, please check the spelling or extra whitespace"
 2. It will still do the calculation for all the valid SKUs.
 
-**Addition of new item in the list (CSV)**
-I was not aware of this can be a condition to add a new item to the list,
-So this condition is handled in a different package named as checkout System secondary code.
-This package I will share separately
